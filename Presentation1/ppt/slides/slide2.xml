@@ -64,7 +64,14 @@
           <a:bodyPr/>
           <a:lstStyle/>
           <a:p>
-            <a:endParaRPr lang="en-US"/>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>Added </a:t>
+            </a:r>
+            <a:r>
+              <a:rPr lang="en-US"/>
+              <a:t>some slide content</a:t>
+            </a:r>
           </a:p>
         </p:txBody>
       </p:sp>

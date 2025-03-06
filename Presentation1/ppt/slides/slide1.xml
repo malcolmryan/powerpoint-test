@@ -65,8 +65,14 @@
           <a:lstStyle/>
           <a:p>
             <a:r>
-              <a:rPr lang="en-US"/>
+              <a:rPr lang="en-US" dirty="0"/>
               <a:t>Edited by Malcolm Ryan</a:t>
+            </a:r>
+          </a:p>
+          <a:p>
+            <a:r>
+              <a:rPr lang="en-US" dirty="0"/>
+              <a:t>This is so cool</a:t>
             </a:r>
           </a:p>
         </p:txBody>
